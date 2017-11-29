@@ -9,7 +9,7 @@
 	<groupId>com.liferay.samples</groupId>
 	<artifactId>maven.samples</artifactId>
 	<packaging>pom</packaging>
-	<version>1.0.0</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>maven.samples</name>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

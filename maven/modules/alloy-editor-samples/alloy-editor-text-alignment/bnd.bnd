@@ -1,0 +1,6 @@
+Bundle-Name: alloy.editor.text.alignment
+Bundle-SymbolicName: alloy.editor.text.alignment
+Bundle-Version: 1.0.0-SNAPSHOT
+Liferay-Releng-Module-Group-Description:
+Liferay-Releng-Module-Group-Title: Rich Text Editors
+Web-ContextPath: /alloy-editor-text-alignment
